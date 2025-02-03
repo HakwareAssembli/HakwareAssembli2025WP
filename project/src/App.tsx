@@ -741,7 +741,7 @@ function App() {
                   className="flex items-center"
                 >
                   <img 
-                    src="/Project/Img/Black_Cube_NoBG2.png" 
+                    src="/project/Img/Black_Cube_NoBG2.png" 
                     alt="Hakware Assembli Logo" 
                     className="h-8 w-8 sm:h-10 sm:w-10 object-contain"
                   />
