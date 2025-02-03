@@ -745,7 +745,7 @@ function App() {
                     alt="Hakware Assembli Logo" 
                     className="h-8 w-8 sm:h-10 sm:w-10 object-contain"
                   />
-                  <span className="ml-2 text-3xl sm:text-2xl font-bold text-zinc-100">Hakware Assembli</span>
+                  <span className="ml-2 text-xl sm:text-4xl font-bold text-zinc-100">Hakware Assembli</span>
                 </a>
               </div>
               <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
